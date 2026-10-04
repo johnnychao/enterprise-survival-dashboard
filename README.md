@@ -1,9 +1,9 @@
 # Enterprise Survival Research Dashboard
 
-An offline research dashboard with aggregate survival curves and exploratory conditional estimates. Open `index.html` in a modern browser.
+A research dashboard with aggregate survival estimates and conditional predictions. Use the published page or open `index.html` offline.
 
-The estimates have limited discrimination in more recent cohorts and are intended for research and service planning only. They must not be used for automated lending, eligibility, rejection, or funding decisions. Seven-year individual predictions are not provided.
+Model and data version: cases-v2-20261004. Presentation revision: 20261004-style-v3. This revision changes wording and presentation only; model parameters and public data fields are unchanged.
 
-The page contains aggregate statistics and model parameters only. Inputs stay in the browser; there are no external requests, analytics, or individual records.
+Recent-cohort prediction performance is limited. Use the estimates for research and human service planning only. Do not use them for automated lending, rejection, funding reductions, eligibility decisions, or business risk classification. Seven-year individual predictions are unavailable.
 
-Version: cases-v2-20261004. This local release candidate has not been published.
+The page contains necessary aggregate statistics and model parameters only. It contains no individual records. Inputs are calculated in the browser and are not stored or transmitted. No external fonts, analytics, or third-party data requests are used.
